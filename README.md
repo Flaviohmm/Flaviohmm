@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**Flaviohmm/Flaviohmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering graduate** from **Universidade Potiguar (UNP)**, passionate about creating efficient and user-friendly web solutions.
 
-Here are some ideas to get you started:
+💻 **Currently focused on:**
+- Backend development with **Python** + **Django** / **Django REST Framework**
+- Frontend development using **React**, **TypeScript**, and **Tailwind CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I enjoy building full-stack applications, clean APIs, responsive interfaces, and learning new tools and best practices every day.
+
+🚀 Always open to interesting projects, collaborations, and tech conversations.
+
+Let's connect and build something great!
